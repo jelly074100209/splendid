@@ -1,2 +1,2 @@
 # splendid
-backend code for jss web site
+捷叔叔网站的源代码
